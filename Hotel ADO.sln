@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel ADO", "Hotel ADO\Hotel ADO.csproj", "{C10B93F0-1754-4A22-A0F6-E85CBD26F0E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{D9FA180F-99EA-4945-956C-BC235E593222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C10B93F0-1754-4A22-A0F6-E85CBD26F0E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10B93F0-1754-4A22-A0F6-E85CBD26F0E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10B93F0-1754-4A22-A0F6-E85CBD26F0E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10B93F0-1754-4A22-A0F6-E85CBD26F0E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9FA180F-99EA-4945-956C-BC235E593222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9FA180F-99EA-4945-956C-BC235E593222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9FA180F-99EA-4945-956C-BC235E593222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9FA180F-99EA-4945-956C-BC235E593222}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E1F2F8D-27A4-433F-9CB2-E64BB68FAD59}
+	EndGlobalSection
+EndGlobal
